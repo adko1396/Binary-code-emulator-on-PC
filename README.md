@@ -8,3 +8,9 @@
 <br>
 
 ![اسکرین‌شات](https://raw.githubusercontent.com/adko1396/Binary-code-emulator-on-PC/refs/heads/main/Preview.png)
+<br>
+<br>
+# BreadcrumbsBinary code emulator on pc
+**This program is a simulation tool designed to convert binary codes into various values or states.**
+**Displaying Binary Values: By turning bits (0 or 1) on or off in the inputs, the corresponding binary code is displayed at the bottom section.**
+**This program serves as an educational tool to help users learn how binary codes function in digital or computational systems. Students can observe how binary values are interpreted numerically or as characters. It is particularly suitable for students in computer science and electronics who need a fundamental understanding of binary codes.**
